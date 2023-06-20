@@ -30,7 +30,7 @@ config BR2_BINUTILS_VERSION_ARC
 	depends on BR2_arc
 
 config BR2_BINUTILS_VERSION_REVYOS
-	bool "binutils riscv (2.40)"
+	bool "binutils revyos (2.40)"
 	depends on BR2_riscv
 
 endchoice
