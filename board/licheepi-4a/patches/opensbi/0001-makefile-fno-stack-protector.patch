@@ -1,0 +1,91 @@
+Binary files opensbi-a/build/lib/libsbi.a and opensbi-b/build/lib/libsbi.a differ
+Binary files opensbi-a/build/lib/libsbiutils.a and opensbi-b/build/lib/libsbiutils.a differ
+Binary files opensbi-a/build/lib/sbi/riscv_asm.o and opensbi-b/build/lib/sbi/riscv_asm.o differ
+Binary files opensbi-a/build/lib/sbi/riscv_atomic.o and opensbi-b/build/lib/sbi/riscv_atomic.o differ
+Binary files opensbi-a/build/lib/sbi/riscv_locks.o and opensbi-b/build/lib/sbi/riscv_locks.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_bitmap.o and opensbi-b/build/lib/sbi/sbi_bitmap.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_bitops.o and opensbi-b/build/lib/sbi/sbi_bitops.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_console.o and opensbi-b/build/lib/sbi/sbi_console.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_domain.o and opensbi-b/build/lib/sbi/sbi_domain.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_ecall_base.o and opensbi-b/build/lib/sbi/sbi_ecall_base.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_ecall_hsm.o and opensbi-b/build/lib/sbi/sbi_ecall_hsm.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_ecall_legacy.o and opensbi-b/build/lib/sbi/sbi_ecall_legacy.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_ecall.o and opensbi-b/build/lib/sbi/sbi_ecall.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_ecall_replace.o and opensbi-b/build/lib/sbi/sbi_ecall_replace.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_ecall_vendor.o and opensbi-b/build/lib/sbi/sbi_ecall_vendor.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_emulate_csr.o and opensbi-b/build/lib/sbi/sbi_emulate_csr.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_fifo.o and opensbi-b/build/lib/sbi/sbi_fifo.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_hart.o and opensbi-b/build/lib/sbi/sbi_hart.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_hsm.o and opensbi-b/build/lib/sbi/sbi_hsm.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_illegal_insn.o and opensbi-b/build/lib/sbi/sbi_illegal_insn.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_init.o and opensbi-b/build/lib/sbi/sbi_init.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_ipi.o and opensbi-b/build/lib/sbi/sbi_ipi.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_math.o and opensbi-b/build/lib/sbi/sbi_math.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_misaligned_ldst.o and opensbi-b/build/lib/sbi/sbi_misaligned_ldst.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_platform.o and opensbi-b/build/lib/sbi/sbi_platform.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_scratch.o and opensbi-b/build/lib/sbi/sbi_scratch.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_string.o and opensbi-b/build/lib/sbi/sbi_string.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_system.o and opensbi-b/build/lib/sbi/sbi_system.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_timer.o and opensbi-b/build/lib/sbi/sbi_timer.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_tlb.o and opensbi-b/build/lib/sbi/sbi_tlb.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_trap.o and opensbi-b/build/lib/sbi/sbi_trap.o differ
+Binary files opensbi-a/build/lib/sbi/sbi_unpriv.o and opensbi-b/build/lib/sbi/sbi_unpriv.o differ
+Binary files opensbi-a/build/lib/utils/fdt/fdt_domain.o and opensbi-b/build/lib/utils/fdt/fdt_domain.o differ
+Binary files opensbi-a/build/lib/utils/fdt/fdt_fixup.o and opensbi-b/build/lib/utils/fdt/fdt_fixup.o differ
+Binary files opensbi-a/build/lib/utils/fdt/fdt_helper.o and opensbi-b/build/lib/utils/fdt/fdt_helper.o differ
+Binary files opensbi-a/build/lib/utils/ipi/fdt_ipi_clint.o and opensbi-b/build/lib/utils/ipi/fdt_ipi_clint.o differ
+Binary files opensbi-a/build/lib/utils/ipi/fdt_ipi.o and opensbi-b/build/lib/utils/ipi/fdt_ipi.o differ
+Binary files opensbi-a/build/lib/utils/irqchip/fdt_irqchip.o and opensbi-b/build/lib/utils/irqchip/fdt_irqchip.o differ
+Binary files opensbi-a/build/lib/utils/irqchip/fdt_irqchip_plic.o and opensbi-b/build/lib/utils/irqchip/fdt_irqchip_plic.o differ
+Binary files opensbi-a/build/lib/utils/irqchip/plic.o and opensbi-b/build/lib/utils/irqchip/plic.o differ
+Binary files opensbi-a/build/lib/utils/libfdt/fdt_addresses.o and opensbi-b/build/lib/utils/libfdt/fdt_addresses.o differ
+Binary files opensbi-a/build/lib/utils/libfdt/fdt_check.o and opensbi-b/build/lib/utils/libfdt/fdt_check.o differ
+Binary files opensbi-a/build/lib/utils/libfdt/fdt_empty_tree.o and opensbi-b/build/lib/utils/libfdt/fdt_empty_tree.o differ
+Binary files opensbi-a/build/lib/utils/libfdt/fdt.o and opensbi-b/build/lib/utils/libfdt/fdt.o differ
+Binary files opensbi-a/build/lib/utils/libfdt/fdt_ro.o and opensbi-b/build/lib/utils/libfdt/fdt_ro.o differ
+Binary files opensbi-a/build/lib/utils/libfdt/fdt_rw.o and opensbi-b/build/lib/utils/libfdt/fdt_rw.o differ
+Binary files opensbi-a/build/lib/utils/libfdt/fdt_strerror.o and opensbi-b/build/lib/utils/libfdt/fdt_strerror.o differ
+Binary files opensbi-a/build/lib/utils/libfdt/fdt_sw.o and opensbi-b/build/lib/utils/libfdt/fdt_sw.o differ
+Binary files opensbi-a/build/lib/utils/libfdt/fdt_wip.o and opensbi-b/build/lib/utils/libfdt/fdt_wip.o differ
+Binary files opensbi-a/build/lib/utils/reset/fdt_reset_htif.o and opensbi-b/build/lib/utils/reset/fdt_reset_htif.o differ
+Binary files opensbi-a/build/lib/utils/reset/fdt_reset.o and opensbi-b/build/lib/utils/reset/fdt_reset.o differ
+Binary files opensbi-a/build/lib/utils/reset/fdt_reset_sifive.o and opensbi-b/build/lib/utils/reset/fdt_reset_sifive.o differ
+Binary files opensbi-a/build/lib/utils/reset/fdt_reset_thead.o and opensbi-b/build/lib/utils/reset/fdt_reset_thead.o differ
+Binary files opensbi-a/build/lib/utils/serial/fdt_serial_htif.o and opensbi-b/build/lib/utils/serial/fdt_serial_htif.o differ
+Binary files opensbi-a/build/lib/utils/serial/fdt_serial.o and opensbi-b/build/lib/utils/serial/fdt_serial.o differ
+Binary files opensbi-a/build/lib/utils/serial/fdt_serial_shakti.o and opensbi-b/build/lib/utils/serial/fdt_serial_shakti.o differ
+Binary files opensbi-a/build/lib/utils/serial/fdt_serial_sifive.o and opensbi-b/build/lib/utils/serial/fdt_serial_sifive.o differ
+Binary files opensbi-a/build/lib/utils/serial/fdt_serial_uart8250.o and opensbi-b/build/lib/utils/serial/fdt_serial_uart8250.o differ
+Binary files opensbi-a/build/lib/utils/serial/shakti-uart.o and opensbi-b/build/lib/utils/serial/shakti-uart.o differ
+Binary files opensbi-a/build/lib/utils/serial/sifive-uart.o and opensbi-b/build/lib/utils/serial/sifive-uart.o differ
+Binary files opensbi-a/build/lib/utils/serial/uart8250.o and opensbi-b/build/lib/utils/serial/uart8250.o differ
+Binary files opensbi-a/build/lib/utils/sys/clint.o and opensbi-b/build/lib/utils/sys/clint.o differ
+Binary files opensbi-a/build/lib/utils/sys/htif.o and opensbi-b/build/lib/utils/sys/htif.o differ
+Binary files opensbi-a/build/lib/utils/sys/sifive_test.o and opensbi-b/build/lib/utils/sys/sifive_test.o differ
+Binary files opensbi-a/build/lib/utils/timer/fdt_timer_clint.o and opensbi-b/build/lib/utils/timer/fdt_timer_clint.o differ
+Binary files opensbi-a/build/lib/utils/timer/fdt_timer.o and opensbi-b/build/lib/utils/timer/fdt_timer.o differ
+Only in opensbi-b/build/platform/generic/firmware: fw_dynamic.bin
+Only in opensbi-b/build/platform/generic/firmware: fw_dynamic.elf
+Only in opensbi-b/build/platform/generic/firmware: fw_jump.bin
+Only in opensbi-b/build/platform/generic/firmware: fw_jump.elf
+Only in opensbi-b/build/platform/generic/firmware: fw_payload.bin
+Only in opensbi-b/build/platform/generic/firmware: fw_payload.elf
+Binary files opensbi-a/build/platform/generic/firmware/payloads/test.elf and opensbi-b/build/platform/generic/firmware/payloads/test.elf differ
+Binary files opensbi-a/build/platform/generic/firmware/payloads/test_main.o and opensbi-b/build/platform/generic/firmware/payloads/test_main.o differ
+Binary files opensbi-a/build/platform/generic/firmware/payloads/test.o and opensbi-b/build/platform/generic/firmware/payloads/test.o differ
+Binary files opensbi-a/build/platform/generic/lib/libplatsbi.a and opensbi-b/build/platform/generic/lib/libplatsbi.a differ
+Binary files opensbi-a/build/platform/generic/platform.o and opensbi-b/build/platform/generic/platform.o differ
+Binary files opensbi-a/build/platform/generic/sifive_fu540.o and opensbi-b/build/platform/generic/sifive_fu540.o differ
+diff -ur opensbi-a/Makefile opensbi-b/Makefile
+--- opensbi-a/Makefile	2023-04-12 09:21:26.000000000 +0000
++++ opensbi-b/Makefile	2023-06-22 16:41:16.979309187 +0000
+@@ -203,7 +203,7 @@
+ GENFLAGS	+=	$(platform-genflags-y)
+ GENFLAGS	+=	$(firmware-genflags-y)
+ 
+-CFLAGS		=	-g -Wall -Werror -ffreestanding -nostdlib -fno-strict-aliasing -O2
++CFLAGS		=	-g -Wall -Werror -ffreestanding -nostdlib -fno-stack-protector -fno-strict-aliasing -O2
+ CFLAGS		+=	-fno-omit-frame-pointer -fno-optimize-sibling-calls
+ CFLAGS		+=	-mno-save-restore -mstrict-align
+ CFLAGS		+=	-mabi=$(PLATFORM_RISCV_ABI) -march=$(PLATFORM_RISCV_ISA)
+Only in opensbi-b/: .stamp_built
