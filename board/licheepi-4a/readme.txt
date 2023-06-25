@@ -2,7 +2,7 @@ Intro
 =====
 
 This directory contains a buildroot configuration for building a
-LicheePi Zero.
+LicheePi 4A.
 
 How to build it
 ===============
@@ -10,9 +10,9 @@ How to build it
 Configure Buildroot
 -------------------
 
-  $ make licheepi_zero_defconfig
+  $ make licheepi_4a_defconfig
 
-Build the rootfs
+Build the boot and rootfs
 ----------------
 
 Note: you will need to have access to the network, since Buildroot
@@ -30,33 +30,28 @@ Result of the build
 After building, you should obtain this tree:
 
     output/images/
-    +-- boot.scr
-    +-- boot.vfat
+    +-- boot.ext4
     +-- rootfs.ext2
     +-- rootfs.ext4 -> rootfs.ext2
     +-- rootfs.tar
-    +-- sdcard.img
-    +-- sun8i-v3s-licheepi-zero-dock.dtb
-    +-- sun8i-v3s-licheepi-zero.dtb
     +-- u-boot.bin
-    +-- u-boot-sunxi-with-spl.bin
-    `-- zImage
+    +-- u-boot-with-spl.bin
+    +-- fw_dynamic.bin
+    `-- Image
 
-How to write the SD card
+How to flash the board
 ========================
 
-Once the build process is finished you will have an image called
-"sdcard.img" in the output/images/ directory.
+Once the build process is finished you will have 3 images corresponding
+to the 3 partitions in the eMMC of LicheePi 4A.
 
-Copy the bootable "sdcard.img" onto an SD card with "dd":
+# fastboot flash ram u-boot-with-spl.bin
+# fastboot reboot
+# sleep 10
+# fastboot flash uboot u-boot-with-spl.bin
+# fastboot flash boot boot.ext4
+# fastboot flash root rootfs.ext2
 
-  $ sudo dd if=output/images/sdcard.img of=/dev/sdX
+Note that the init process is /sbin/init. You might need to change
+the uboot environment variables to reflect that.
 
-Alternatively, you can use the Etcher graphical tool to burn the image
-to the SD card safely and on any platform:
-
-https://etcher.io/
-
-Once the SD card is burned, insert it into your LicheePi Zero board,
-and power it up. Your new system should come up now and start a
-console on the UART0 serial port.
