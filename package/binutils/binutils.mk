@@ -22,9 +22,11 @@ BINUTILS_FROM_GIT = y
 endif
 
 ifeq ($(BINUTILS_VERSION),revyos-2.40)
-BINUTILS_REVISION = dec1b995a228a50c2b3189294a802d4860f3d758
-BINUTILS_SITE = https://github.com/revyos/binutils-gdb/archive
-BINUTILS_SOURCE = $(BINUTILS_REVISION).tar.gz
+BINUTILS_VERSION = dec1b995a228a50c2b3189294a802d4860f3d758
+BINUTILS_SITE = https://github.com/revyos/binutils-gdb.git
+BINUTILS_SITE_METHOD = git
+BINUTILS_SOURCE ?= binutils-$(BINUTILS_VERSION).tar.gz
+BINUTILS_FROM_GIT = y
 endif
 
 BINUTILS_SITE ?= $(BR2_GNU_MIRROR)/binutils
