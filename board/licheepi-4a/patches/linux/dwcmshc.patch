@@ -1,0 +1,11 @@
+diff -ur linux-headers-ahead-emmc/arch/riscv/configs/defconfig linux-ahead-emmc/arch/riscv/configs/defconfig
+--- linux-headers-ahead-emmc/arch/riscv/configs/defconfig	2023-08-08 02:27:03.000000000 +0000
++++ linux-ahead-emmc/arch/riscv/configs/defconfig	2023-08-15 15:21:53.907099119 +0000
+@@ -168,6 +168,7 @@
+ CONFIG_MMC_SDHCI=y
+ CONFIG_MMC_SDHCI_PLTFM=y
+ CONFIG_MMC_SDHCI_CADENCE=y
++CONFIG_MMC_SDHCI_OF_DWCMSHC=y
+ CONFIG_MMC_SPI=y
+ CONFIG_MMC_SUNXI=y
+ CONFIG_RTC_CLASS=y
