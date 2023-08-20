@@ -1,0 +1,130 @@
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu: built-in.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu: .built-in.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu/c9xx: built-in.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu/c9xx: .built-in.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu/c9xx: cpu.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu/c9xx: .cpu.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu/c9xx: cpu.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu/c9xx: dram.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu/c9xx: .dram.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu/c9xx: dram.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu: cpu.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu: .cpu.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu: cpu.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu: mtrap.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu: .mtrap.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu: start.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/cpu: .start.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: light-ant-ref.dtb
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-ant-ref.dtb.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-ant-ref.dtb.d.dtc.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-ant-ref.dtb.d.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-ant-ref.dtb.dts.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-ant-ref.dtb.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: light-a-product.dtb
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-product.dtb.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-product.dtb.d.dtc.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-product.dtb.d.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-product.dtb.dts.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-product.dtb.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: light-a-ref.dtb
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-ref.dtb.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-ref.dtb.d.dtc.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-ref.dtb.d.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-ref.dtb.dts.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-ref.dtb.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: light-a-val.dtb
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-val.dtb.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-val.dtb.d.dtc.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-val.dtb.d.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-val.dtb.dts.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-a-val.dtb.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: light-beagle.dtb
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-beagle.dtb.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-beagle.dtb.d.dtc.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-beagle.dtb.d.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-beagle.dtb.dts.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-beagle.dtb.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: light-b-power.dtb
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-power.dtb.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-power.dtb.d.dtc.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-power.dtb.d.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-power.dtb.dts.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-power.dtb.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: light-b-product.dtb
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-product.dtb.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-product.dtb.d.dtc.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-product.dtb.d.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-product.dtb.dts.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-product.dtb.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: light-b-ref.dtb
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-ref.dtb.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-ref.dtb.d.dtc.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-ref.dtb.d.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-ref.dtb.dts.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-b-ref.dtb.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: light-lpi4a.dtb
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-lpi4a.dtb.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-lpi4a.dtb.d.dtc.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-lpi4a.dtb.d.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-lpi4a.dtb.dts.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/dts: .light-lpi4a.dtb.pre.tmp
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/include/asm: arch
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: asm-offsets.s
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .asm-offsets.s.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: asm-offsets.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: bootm.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .bootm.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: bootm.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: boot.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .boot.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: boot.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: built-in.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .built-in.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: cache.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .cache.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: cache.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: image.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .image.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: image.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: interrupts.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .interrupts.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: interrupts.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: locks.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .locks.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: locks.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: rdtime.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .rdtime.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: rdtime.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: reset.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .reset.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: reset.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: setjmp.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .setjmp.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: smp.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .smp.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: smp.su
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: thead_ipi.o
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: .thead_ipi.o.cmd
+Only in uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/lib: thead_ipi.su
+diff -ur uboot.origin/arch/riscv/Makefile uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/Makefile
+--- uboot.origin/arch/riscv/Makefile	2023-05-15 11:19:21.000000000 +0000
++++ uboot-b5768043c2128370424c06f8b197700356355384/arch/riscv/Makefile	2023-08-20 04:28:58.261677959 +0000
+@@ -24,7 +24,16 @@
+ 	CMODEL = medany
+ endif
+ 
+-ARCH_FLAGS = -march=$(ARCH_BASE)$(ARCH_A)$(ARCH_C) -mabi=$(ABI) \
++RISCV_MARCH = $(ARCH_BASE)$(ARCH_A)$(ARCH_F)$(ARCH_D)$(ARCH_C)
++
++# Newer binutils versions default to ISA spec version 20191213 which moves some
++# instructions from the I extension to the Zicsr and Zifencei extensions.
++toolchain-need-zicsr-zifencei := $(call cc-option-yn, -mabi=$(ABI) -march=$(RISCV_MARCH)_zicsr_zifencei)
++ifeq ($(toolchain-need-zicsr-zifencei),y)
++	RISCV_MARCH := $(RISCV_MARCH)_zicsr_zifencei
++endif
++
++ARCH_FLAGS = -march=$(RISCV_MARCH) -mabi=$(ABI) \
+ 	     -mcmodel=$(CMODEL)
+ 
+ PLATFORM_CPPFLAGS	+= $(ARCH_FLAGS)
