@@ -1,0 +1,25 @@
+Index: linux-headers-221850f11052260cccf575e41ed6986af4a2ebe3/arch/riscv/boot/dts/thead/th1520-lichee-module-4a.dtsi
+===================================================================
+--- linux-headers-221850f11052260cccf575e41ed6986af4a2ebe3.orig/arch/riscv/boot/dts/thead/th1520-lichee-module-4a.dtsi
++++ linux-headers-221850f11052260cccf575e41ed6986af4a2ebe3/arch/riscv/boot/dts/thead/th1520-lichee-module-4a.dtsi
+@@ -216,3 +216,20 @@
+ 	max-frequency = <198000000>;
+ 	status = "okay";
+ };
++
++&sdio1 {
++	max-frequency = <100000000>;
++	bus-width = <4>;
++	pull_up;
++	no-sd;
++	no-mmc;
++	non-removable;
++	io_fixed_1v8;
++	rxclk-sample-delay = <80>;
++	post-power-on-delay-ms = <50>;
++	wprtn_ignore;
++	cap-sd-highspeed;
++	keep-power-in-suspend;
++	wakeup-source;
++	status = "okay";
++};
