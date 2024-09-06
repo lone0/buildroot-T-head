@@ -12,6 +12,8 @@ ROOTPATH_TMP="$(mktemp -d)"
 rm -rf "${GENIMAGE_TMP}"
 
 cp ${BINARIES_DIR}/Image ${BINARIES_DIR}/*.dtb ${BINARIES_DIR}/fw_dynamic.bin ${ROOTPATH_TMP}
+cp -a ${BOARD_DIR}/th1520-boot-firmware/addons/boot/* ${ROOTPATH_TMP}
+cp -a ${BOARD_DIR}/extlinux ${ROOTPATH_TMP}
 
 genimage \
 	--rootpath "${ROOTPATH_TMP}"   \
